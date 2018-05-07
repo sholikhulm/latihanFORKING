@@ -2,3 +2,4 @@ file untuk menambah latihan
 Silakan untuk menambahkan keterangan NAMA dan NIM di bawah ini:
 #NAMA_NIM_TI_PAGI
 1. Ndharudyan_G.211.16.0027_TI_PAGI
+2. Fikri Ramdani Rehalat_G.211.14.0197_TI_PAGI
