@@ -1,3 +1,4 @@
 file untuk menambah latihan
 Silakan untuk menambahkan keterangan NAMA dan NIM di bawah ini:
 #NAMA_NIM_TI_PAGI
+1. Ndharudyan_G.211.16.0027_TI_PAGI
