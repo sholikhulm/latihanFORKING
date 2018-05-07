@@ -1,2 +1,7 @@
 file untuk menambah latihan
-Anindya Putri Hapsari_G.211.15.0108 _TI Pagi 
+Silakan untuk menambahkan keterangan NAMA dan NIM di bawah ini:
+#NAMA_NIM_TI_PAGI
+1. Ndharudyan_G.211.16.0027_TI_PAGI
+2. Fikri Ramdani Rehalat_G.211.14.0197_TI_PAGI
+3. Sujiyanto G.211.12.0046 TI_PAGI
+4. Anindya Putri Hapsari_G.211.15.0108_TI Pagi 
